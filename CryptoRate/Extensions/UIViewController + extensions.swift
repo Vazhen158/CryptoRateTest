@@ -7,6 +7,7 @@
 
 import UIKit
 
+// Использовать в дальнейшем для обработки ошибок
 extension UIViewController {
     func showToast(message: String, interval: Double, complition: (() -> Void)? = nil) {
         let alert = UIAlertController.init(title: nil, message: message, preferredStyle: .alert)
