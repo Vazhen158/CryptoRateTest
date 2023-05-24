@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E6F379F0-0F6F-4D22-9D76-99E9B2C949CF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00ACF5EE-FA55-413E-8979-D8B8B8A5D824"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoRate/NetworkLayer/CryptoRateGet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "fetchAssets(offset:limit:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8120DEFD-C857-4991-A5EE-BBAA2112F355"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoRate/NetworkLayer/CryptoRateGet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "fetchAssets(offset:limit:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8120DEFD-C857-4991-A5EE-BBAA2112F355 - 85e2ecb46f1e3a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoRate.CryptoRateGet.fetchAssets(completion: (Swift.Optional&lt;CryptoRate.CryptoAsset&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CryptoRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrejvazenov/Desktop/CryptoRate/CryptoRate/NetworkLayer/CryptoRateGet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "8120DEFD-C857-4991-A5EE-BBAA2112F355 - c75b2804cbf32e24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Moya.Response, Moya.MoyaError&gt;) -&gt; () in CryptoRate.CryptoRateGet.fetchAssets(completion: (Swift.Optional&lt;CryptoRate.CryptoAsset&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CryptoRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrejvazenov/Desktop/CryptoRate/CryptoRate/NetworkLayer/CryptoRateGet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "8120DEFD-C857-4991-A5EE-BBAA2112F355 - 85e2ecb46f1e2da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoRate.CryptoRateGet.fetchAssets(completion: (Swift.Optional&lt;CryptoRate.CryptoAsset&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CryptoRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrejvazenov/Desktop/CryptoRate/CryptoRate/NetworkLayer/CryptoRateGet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "8120DEFD-C857-4991-A5EE-BBAA2112F355 - c75b2804cbf32ed8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Moya.Response, Moya.MoyaError&gt;) -&gt; () in CryptoRate.CryptoRateGet.fetchAssets(completion: (Swift.Optional&lt;CryptoRate.CryptoAsset&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CryptoRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrejvazenov/Desktop/CryptoRate/CryptoRate/NetworkLayer/CryptoRateGet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "8120DEFD-C857-4991-A5EE-BBAA2112F355 - 3ac6109899d7edaa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoRate.CryptoRateGet.fetchAssets(completion: (Swift.Optional&lt;CryptoRate.CryptoRateGet.Returned&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CryptoRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrejvazenov/Desktop/CryptoRate/CryptoRate/NetworkLayer/CryptoRateGet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "8120DEFD-C857-4991-A5EE-BBAA2112F355 - bbef899f75c41bc2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Moya.Response, Moya.MoyaError&gt;) -&gt; () in CryptoRate.CryptoRateGet.fetchAssets(completion: (Swift.Optional&lt;CryptoRate.CryptoRateGet.Returned&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CryptoRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrejvazenov/Desktop/CryptoRate/CryptoRate/NetworkLayer/CryptoRateGet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CFE1DFE6-4D74-4BA5-9C57-C6C8118B7E44"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoRate/NetworkLayer/CryptoRateGet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "fetchAssets(offset:limit:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CFE1DFE6-4D74-4BA5-9C57-C6C8118B7E44 - c75b2804cbf32ed8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Moya.Response, Moya.MoyaError&gt;) -&gt; () in CryptoRate.CryptoRateGet.fetchAssets(completion: (Swift.Optional&lt;CryptoRate.CryptoAsset&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CryptoRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrejvazenov/Desktop/CryptoRate/CryptoRate/NetworkLayer/CryptoRateGet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "CFE1DFE6-4D74-4BA5-9C57-C6C8118B7E44 - bbef899f75c41bc2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Moya.Response, Moya.MoyaError&gt;) -&gt; () in CryptoRate.CryptoRateGet.fetchAssets(completion: (Swift.Optional&lt;CryptoRate.CryptoRateGet.Returned&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CryptoRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrejvazenov/Desktop/CryptoRate/CryptoRate/NetworkLayer/CryptoRateGet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5BF48592-0F22-4D2F-B85C-4FF5D63B868F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoRate/View/CryptocurrencyExchangeRateViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5BF48592-0F22-4D2F-B85C-4FF5D63B868F - 69d84d535e30ed50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoRate.CryptocurrencyExchangeRateViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "CryptoRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrejvazenov/Desktop/CryptoRate/CryptoRate/View/CryptocurrencyExchangeRateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "5BF48592-0F22-4D2F-B85C-4FF5D63B868F - c236c86b506e1e39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;CryptoRate.CryptoAsset&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CryptoRate.CryptocurrencyExchangeRateViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "CryptoRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrejvazenov/Desktop/CryptoRate/CryptoRate/View/CryptocurrencyExchangeRateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "5BF48592-0F22-4D2F-B85C-4FF5D63B868F - c236c86b506e1e39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;CryptoRate.CryptoAsset&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CryptoRate.CryptocurrencyExchangeRateViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "CryptoRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrejvazenov/Desktop/CryptoRate/CryptoRate/View/CryptocurrencyExchangeRateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "97ABA676-350C-425E-A704-1F1984254B71"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoRate/View/MainScreen/CryptocurrencyExchangeRateViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "168"
+            endingLineNumber = "168"
+            landmarkName = "searchButtonClicked()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "97ABA676-350C-425E-A704-1F1984254B71 - 1f124d2a35c76c27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in CryptoRate.CryptocurrencyExchangeRateViewController.searchButtonClicked() -&gt; ()"
+                  moduleName = "CryptoRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrejvazenov/Desktop/CryptoRate/CryptoRate/View/MainScreen/CryptocurrencyExchangeRateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "158"
+                  endingLineNumber = "158"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  uuid = "97ABA676-350C-425E-A704-1F1984254B71 - 1f124d2a35c76d5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in CryptoRate.CryptocurrencyExchangeRateViewController.searchButtonClicked() -&gt; ()"
+                  moduleName = "CryptoRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrejvazenov/Desktop/CryptoRate/CryptoRate/View/MainScreen/CryptocurrencyExchangeRateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "97ABA676-350C-425E-A704-1F1984254B71 - 1f124d2a35c76dbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in CryptoRate.CryptocurrencyExchangeRateViewController.searchButtonClicked() -&gt; ()"
+                  moduleName = "CryptoRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrejvazenov/Desktop/CryptoRate/CryptoRate/View/MainScreen/CryptocurrencyExchangeRateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
+                  offsetFromSymbolStart = "280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D776F118-0958-4C5D-B741-8F0D86B4003C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoRate/View/MainScreen/CryptocurrencyExchangeRateViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
+            landmarkName = "searchButtonClicked()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D776F118-0958-4C5D-B741-8F0D86B4003C - cbb1688746f8b43d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoRate.CryptocurrencyExchangeRateViewController.searchButtonClicked() -&gt; ()"
+                  moduleName = "CryptoRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrejvazenov/Desktop/CryptoRate/CryptoRate/View/MainScreen/CryptocurrencyExchangeRateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "D776F118-0958-4C5D-B741-8F0D86B4003C - 1f124d2a35c76d5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in CryptoRate.CryptocurrencyExchangeRateViewController.searchButtonClicked() -&gt; ()"
+                  moduleName = "CryptoRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrejvazenov/Desktop/CryptoRate/CryptoRate/View/MainScreen/CryptocurrencyExchangeRateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6A78721-36E6-42D5-8666-E8BC77DEFAE2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoRate/View/MainScreen/CryptocurrencyExchangeRateViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "searchButton"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "706570F5-65FA-4A7C-A3BC-96363631C79B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoRate/View/MainScreen/CryptocurrencyExchangeRateViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "searchButtonClicked()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "706570F5-65FA-4A7C-A3BC-96363631C79B - cbb1688746f8b7ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoRate.CryptocurrencyExchangeRateViewController.searchButtonClicked() -&gt; ()"
+                  moduleName = "CryptoRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrejvazenov/Desktop/CryptoRate/CryptoRate/View/MainScreen/CryptocurrencyExchangeRateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "706570F5-65FA-4A7C-A3BC-96363631C79B - cbb1688746f8b7ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoRate.CryptocurrencyExchangeRateViewController.searchButtonClicked() -&gt; ()"
+                  moduleName = "CryptoRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrejvazenov/Desktop/CryptoRate/CryptoRate/View/MainScreen/CryptocurrencyExchangeRateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9402DD19-FCAA-41F9-BAEB-9DE7AA4628AF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoRate/View/MainScreen/CryptocurrencyExchangeRateViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "194"
+            endingLineNumber = "194"
+            landmarkName = "updateSearchResults(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "642A389A-9FB9-4875-8B7B-E6EC504C609F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoRate/View/MainScreen/CryptocurrencyExchangeRateViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "196"
+            endingLineNumber = "196"
+            landmarkName = "updateSearchResults(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B79ECD8B-B443-4474-A589-2DBDF2FD8E98"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoRate/ViewModel/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "searchAsset(id:tableView:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "12F8DEDF-BBF4-411D-93A8-ED9AF17CF9CD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoRate/ViewModel/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "searchAsset(id:tableView:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9FF46DB1-AD81-40C9-A1D6-885C92EECA07"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoRate/ViewModel/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "fetchAllAssets(tableView:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B332FD5C-AAF7-4AD9-B880-4B04791F58E6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoRate/View/MainScreen/CryptocurrencyExchangeRateViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "198"
+            endingLineNumber = "198"
+            landmarkName = "updateSearchResults(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B332FD5C-AAF7-4AD9-B880-4B04791F58E6 - 50d05cc82f28f31d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoRate.CryptocurrencyExchangeRateViewController.updateSearchResults(for: __C.UISearchController) -&gt; ()"
+                  moduleName = "CryptoRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrejvazenov/Desktop/CryptoRate/CryptoRate/View/MainScreen/CryptocurrencyExchangeRateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "800">
+               </Location>
+               <Location
+                  uuid = "B332FD5C-AAF7-4AD9-B880-4B04791F58E6 - 52704272950cb87e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CryptoRate.CryptoAsset) -&gt; Swift.Bool in CryptoRate.CryptocurrencyExchangeRateViewController.updateSearchResults(for: __C.UISearchController) -&gt; ()"
+                  moduleName = "CryptoRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrejvazenov/Desktop/CryptoRate/CryptoRate/View/MainScreen/CryptocurrencyExchangeRateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "192"
+                  endingLineNumber = "192"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DCE9B33-34D0-42AA-A767-BB04AB229E3C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoRate/View/MainScreen/CryptocurrencyExchangeRateViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "204"
+            endingLineNumber = "204"
+            landmarkName = "updateSearchResults(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B39306FC-91DE-468D-B7C9-B9705914DB7E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoRate/ViewModel/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "fetchCrypto(tableView:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27A343E5-CD23-43A8-A063-12791E5044D8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoRate/View/MainScreen/CryptoRateTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "setModel(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B2688D3-E9A1-4112-A8EA-1F7851AF42C5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoRate/View/DetailScreen/DetailScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "177"
+            endingLineNumber = "177"
+            landmarkName = "backButtonTap()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72F8E2D7-9146-4630-B4BE-73C249F88A79"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoRate/View/MainScreen/CryptocurrencyExchangeRateViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "238"
+            endingLineNumber = "238"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "72F8E2D7-9146-4630-B4BE-73C249F88A79 - 4e552f5b200e56b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoRate.CryptocurrencyExchangeRateViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "CryptoRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrejvazenov/Desktop/CryptoRate/CryptoRate/View/MainScreen/CryptocurrencyExchangeRateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "224"
+                  endingLineNumber = "224"
+                  offsetFromSymbolStart = "2712">
+               </Location>
+               <Location
+                  uuid = "72F8E2D7-9146-4630-B4BE-73C249F88A79 - 4e552f5b200e56b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoRate.CryptocurrencyExchangeRateViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "CryptoRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrejvazenov/Desktop/CryptoRate/CryptoRate/View/MainScreen/CryptocurrencyExchangeRateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "224"
+                  endingLineNumber = "224"
+                  offsetFromSymbolStart = "2828">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95D302AA-A440-4E06-87BE-D591DEE1C825"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoRate/NetworkLayer/CryptoRateGet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "fetchAssets(offset:limit:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "95D302AA-A440-4E06-87BE-D591DEE1C825 - a42ebba785a7a540"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Moya.Response, Moya.MoyaError&gt;) -&gt; () in CryptoRate.CryptoRateGet.fetchAssets(offset: Swift.Int, limit: Swift.Int, completion: (Swift.Optional&lt;CryptoRate.CryptoRateGet.Returned&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CryptoRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrejvazenov/Desktop/CryptoRate/CryptoRate/NetworkLayer/CryptoRateGet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "1512">
+               </Location>
+               <Location
+                  uuid = "95D302AA-A440-4E06-87BE-D591DEE1C825 - a42ebba785a7a540"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Moya.Response, Moya.MoyaError&gt;) -&gt; () in CryptoRate.CryptoRateGet.fetchAssets(offset: Swift.Int, limit: Swift.Int, completion: (Swift.Optional&lt;CryptoRate.CryptoRateGet.Returned&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CryptoRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrejvazenov/Desktop/CryptoRate/CryptoRate/NetworkLayer/CryptoRateGet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "1552">
+               </Location>
+               <Location
+                  uuid = "95D302AA-A440-4E06-87BE-D591DEE1C825 - a42ebba785a7a540"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Moya.Response, Moya.MoyaError&gt;) -&gt; () in CryptoRate.CryptoRateGet.fetchAssets(offset: Swift.Int, limit: Swift.Int, completion: (Swift.Optional&lt;CryptoRate.CryptoRateGet.Returned&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CryptoRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrejvazenov/Desktop/CryptoRate/CryptoRate/NetworkLayer/CryptoRateGet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "1756">
+               </Location>
+               <Location
+                  uuid = "95D302AA-A440-4E06-87BE-D591DEE1C825 - a42ebba785a7a540"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Moya.Response, Moya.MoyaError&gt;) -&gt; () in CryptoRate.CryptoRateGet.fetchAssets(offset: Swift.Int, limit: Swift.Int, completion: (Swift.Optional&lt;CryptoRate.CryptoRateGet.Returned&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CryptoRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrejvazenov/Desktop/CryptoRate/CryptoRate/NetworkLayer/CryptoRateGet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "1796">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF1EE752-5C46-400A-816A-B8F28A6D8515"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoRate/NetworkLayer/CryptoRateGet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "searchAssets(id:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DF1EE752-5C46-400A-816A-B8F28A6D8515 - 62f773415674fd6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Moya.Response, Moya.MoyaError&gt;) -&gt; () in CryptoRate.CryptoRateGet.searchAssets(id: Swift.String, completion: (Swift.Optional&lt;CryptoRate.CryptoRateGet.Returned&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CryptoRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrejvazenov/Desktop/CryptoRate/CryptoRate/NetworkLayer/CryptoRateGet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "1508">
+               </Location>
+               <Location
+                  uuid = "DF1EE752-5C46-400A-816A-B8F28A6D8515 - 62f773415674fd6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Moya.Response, Moya.MoyaError&gt;) -&gt; () in CryptoRate.CryptoRateGet.searchAssets(id: Swift.String, completion: (Swift.Optional&lt;CryptoRate.CryptoRateGet.Returned&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CryptoRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrejvazenov/Desktop/CryptoRate/CryptoRate/NetworkLayer/CryptoRateGet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "1568">
+               </Location>
+               <Location
+                  uuid = "DF1EE752-5C46-400A-816A-B8F28A6D8515 - 62f773415674fd6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Moya.Response, Moya.MoyaError&gt;) -&gt; () in CryptoRate.CryptoRateGet.searchAssets(id: Swift.String, completion: (Swift.Optional&lt;CryptoRate.CryptoRateGet.Returned&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CryptoRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrejvazenov/Desktop/CryptoRate/CryptoRate/NetworkLayer/CryptoRateGet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "1608">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
